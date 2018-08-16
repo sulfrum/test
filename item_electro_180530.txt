@@ -1,0 +1,1273 @@
+#Class electromancer 
+
+Fancy Staff of Intensity Uncommon 45
+Fine Wizard Hat of Persistence Uncommon 44
+Unexceptional Ring Common 45
+Diminished Wizard Hat Common 44
+Standard-Issue Ring of Decency Common 43
+Ordinary Ring of Decency Common 44
+Cloak of the Masses Common 44
+Staff of Imperfection Common 34
+Boots of the Ordinary Common 34
+Robes of the Terrorized Uncommon 34
+Choice Wizard Hat of Violence Uncommon 34
+All Right Boots Common 34
+Unremarkable Staff Common 34
+Name Brand Ring Uncommon 34
+Wizard Hat of Piercing Uncommon 34
+Superlative Ring of the Earth Rare 34
+Normal Boots Common 34
+Modest Necklace of Value Common 34
+Sufficient Staff Common 33
+Toned Staff of Imperfection Common 34
+Necklace of Simplicity Common 34
+Wand of the Masses Common 33
+All Right Necklace of Decency Common 34
+Decent Robes of the Masses Common 34
+Ring of Imperfection Common 34
+Usual Wizard Hat of Simplicity Common 34
+General Cloak of the Masses Common 34
+Useful Wizard Hat Common 34
+Worthy Wizard Hat Common 34
+Ring of Suitability Common 33
+Glorious Cloak of Dread Rare 44
+Wholesome Boots Uncommon 42
+Translucent Boots of the Ages Historic 33
+Staff of Stardust Historic 32
+Singular Wand of Torture Rare 34
+Exquisite Staff Rare 33
+Luxury Staff of Purity Rare 33
+Faultless Boots of the Dawn Rare 33
+Elegant Wand of the Intrepid Rare 33
+Superior Boots of the Daring Uncommon 34
+Prime Wand Uncommon 34
+Swank Wand of the Intoxicated Uncommon 33
+Tasteful Boots Uncommon 33
+Polished Wand Uncommon 33
+Commendable Staff of Stardom Uncommon 33
+Wholesome Boots Uncommon 33
+Desirable Boots of the Bold Uncommon 34
+Astonishing Necklace Rare 33
+Firm Wand Uncommon 33
+Unearthly Wand of the Sky Historic 31
+Balanced Boots Uncommon 33
+Superior Boots of Friendship Uncommon 33
+Fine Wand of the Just Uncommon 34
+Select Boots of the Daring Uncommon 34
+Select Staff of Demolition Uncommon 34
+Firm Wand of Frost Uncommon 33
+Commendable Boots Uncommon 32
+Name Brand Wand of Stardom Uncommon 34
+Name Brand Wand of Fright Uncommon 34
+Blessed Wizard Hat of the Fearless Rare  34
+Prime Boots of Perseverance Uncommon 45
+Keen Necklace of the Vanquished Uncommon 49
+Preeminent Staff of Extravagance Rare 38
+Immaculate Boots Historic 35
+Swank Boots of Wounding Uncommon 38
+Premier Staff of Purity Rare 37
+Wand of the Forgotten Rare 37
+Honest Staff Uncommon 38
+Boots of the Dauntless Uncommon 37
+Quality Boots of Determination Uncommon 37
+Tasteful Staff Uncommon 38
+Name Brand Staff of the Intoxicated Uncommon  37
+Boots of Piercing Uncommon 37
+Superlative Staff of Fire Rare 37
+Handsome Wand of Victory Uncommon 37
+Wand of the Adventurous Uncommon 37
+Awesome Wizard Hat of Punishment Rare 38
+Top Notch Boots of Predictability Uncommon 37
+Virtuous Cloak of the Sun Historic 37
+Noble Boots of Glamour Rare 36
+Faultless Necklace of Ease Rare 36
+Preeminent Boots Rare 36
+Handsome Boots of the Willing Uncommon 36
+Desirable Boots of Stardom Uncommon 36
+Staff of Normality Common 38
+Heavy Necklace Uncommon 37
+First Class Staff of Pain Uncommon 36
+Standard-Issue Wand of Adequacy Common  38
+Commendable Staff Uncommon 37
+Choice Staff of Determination Uncommon 37
+Wizard Hat of Glitz Rare 51
+Routine Staff Common 50
+Okay Staff Common 51
+Run of the Mill Boots of Usefulness Common  51
+Intermediate Wand of Usefulness Common 49
+Necklace of the Average Common 51
+First Class Staff of Heaviness Uncommon 44
+Wand of Adequacy Common 49
+Cloak of Violence Uncommon 51
+Requisite Necklace Common 51
+Usual Wizard Hat Common 51
+Quaint Ring of Regularity Common 51
+Wand of the Undaunted Historic 40
+Usual Ring of Decency Common 51
+Boots of the Feared Rare 40
+Quintessential Boots of Ease Rare 40
+Quintessential Staff of Fire Rare 39
+Luxury Boots Rare 39
+Lovely Staff Rare 39
+Imperfect Ring Common 51
+Amazing Boots of Ice Rare 39
+Stalwart Boots of the Daring Uncommon 40
+Bronze Wizard Hat of Simplicity Common 49
+Staff of the Darkness Uncommon 40
+Special Boots of Revenge Uncommon 40
+Uncommon Boots of Confidence Uncommon 40
+Royal Staff Uncommon 39
+Fine Boots Uncommon 39
+Necklace of the Sky Historic 40
+Ornate Necklace of Greatness Rare 40
+Wand of Vengeance Historic 42
+Perfect Wand of Purity Rare 43
+High Class Boots of Flames Rare 43
+Cloak of Violence Uncommon 51
+Boots of Adventure Uncommon 43
+Good Staff of the Just Uncommon 43
+Ornate Staff of the Earth Rare 41
+Ferocious Staff Uncommon 43
+Necklace of the Undeterred Historic 42
+Honest Boots of Frost Uncommon 43
+Amazing Boots Rare 43
+Desirable Boots of Predictability Uncommon 43
+Premium Staff of Happiness Rare 43
+Wand of Extravagance Rare 41
+Chrome Wand of Stardom Uncommon 42
+Handsome Boots Uncommon 42
+Boots of Greatness Rare 40
+Ferocious Wand Uncommon 43
+Tasteful Boots of Bravery Uncommon 43
+Remarkable Boots of Intensity Uncommon 42
+Remarkable Boots of the Rain Uncommon 42
+Stalwart Boots of Determination Uncommon 43
+Glorious Cloak of Flames Rare 43
+Seminal Necklace Rare 43
+Boots of the Dashing Uncommon 41
+Praiseworthy Boots of the Courageous Uncommon 43
+High Grade Staff of Punishment Rare 41
+Rare Boots Rare 41
+Ferocious Boots of Revenge Uncommon 42
+Wand of Imperfection Common 53
+Passable Boots Common 52
+Ring of Glory Rare 53
+Respectable Boots Common 53
+Immaculate Staff Historic 44
+Impossible Necklace of the Forbidden Ones Historic 44
+Top Notch Wizard Hat of the Adventurous Uncommon 51
+Necklace of Usefulness Common 53
+Special Boots of the Tortured Uncommon 44
+Gallant Boots of the Dashing Uncommon 44
+Bearable Wizard Hat of Routine Common 51
+Intermediate Ring Common 51
+Good Wand of Heaviness Uncommon 43
+Wholesome Boots of the Dauntless Uncommon  44
+High Grade Boots of Ice Rare 44
+Fine Boots of Fright Uncommon 44
+Typical Ring of Decency Common 51
+Stout Boots of Fright Uncommon 43
+Supreme Boots of Ease Rare 42
+Honest Wand of the Daring Uncommon 43
+Tasteful Staff Uncommon 43
+Sharp Boots Uncommon 44
+Classic Boots of Ferocity Rare 42
+Remarkable Boots of Persistence Uncommon 44
+Staff of the Vain Uncommon 43
+Choice Wand Uncommon 43
+General Cloak Common 53
+High Grade Robes of Happiness Rare 44
+Wand of Fright Uncommon 43
+Tasteful Cloak Uncommon 52
+Wizard Hat of Glitz Rare 51
+Awesome Boots of Flames Rare 46
+Stalwart Staff of the Daring Uncommon 47
+Unmerciful Wizard Hat of the Blessed Ones Historic 47
+Blessed Boots of Extra Clicks Rare 47
+Stout Boots of Victory Uncommon 46
+Sharp Boots of Frost Uncommon 46
+Striking Necklace of Perfection Rare 47
+Distinctive Wand Uncommon 47
+Boots of the Willing Uncommon 46
+Boots of Joy Rare 43
+Staff of Fred's Bane Rare 43
+Boots of Intensity Uncommon 46
+Firm Boots of Malevolence Uncommon 47
+Golden Necklace Rare 44
+Wand of Stardom Uncommon 45
+Firm Staff of Adventure Uncommon 44
+Balanced Staff Uncommon 45
+Superlative Boots of Terror Rare 43
+Sharp Wand Uncommon 46
+Fine Boots of the Daring Uncommon 44
+Boots of Pain Uncommon 46
+Relevant Ring Common 53
+Refined Boots of Foreboding Uncommon 46
+Swank Boots of Keenness Uncommon 43
+Boots of Frost Uncommon 43
+Top Notch Wand of the Bold Uncommon 43
+Ordinary Wand Common 46
+Rare Wand Rare 41
+Okay Wand of the Ordinary Common 54
+Wand of Normality Common 52
+Ordinary Boots Common 53
+Choice Necklace Uncommon 53
+Firm Staff of Heaviness Uncommon 48
+Uncommon Staff of the Willing Uncommon 48
+Necklace of Terror Rare 48
+Satisfactory Necklace Common 53
+Boots of Revenge Uncommon 46
+Boots of the Vain Uncommon 47
+Fair Ring Common 54
+Wand of Flames Rare 46
+Firm Necklace Uncommon 48
+Top Notch Necklace of the Willing Uncommon 51
+Prime Wand Uncommon 48
+Name Brand Wand Uncommon 46
+Wholesome Boots Uncommon 47
+First Rate Staff of the Tortured Uncommon 46
+Decent Boots Common 48
+Supreme Cloak of Pleasure Rare 48
+Top Notch Necklace of the Willing Uncommon 47
+First Class Boots Uncommon 46
+Swank Staff of Mirth Uncommon 47
+Praiseworthy Boots of Impartiality Uncommon 47
+Appropriate Wand Common 47
+Beautiful Wizard Hat of Torture Rare 48
+Boots of Normality Common 47
+Bearable Staff Common 47
+First Class Necklace Uncommon 48
+Wizard Hat of Routine Common 54
+Heavy Necklace of the Intoxicated Uncommon 58
+Blessed Wizard Hat of Glory Rare 58
+Sharp Necklace Uncommon 56
+Hard Boots of Pain Uncommon 50
+Common Necklace Common 58
+Faultless Boots of Ferocity Rare 48
+Necklace of the Moon Historic 50
+Boots of the Rain Uncommon 50
+Honest Staff Uncommon 49
+Name Brand Staff Uncommon 50
+Steel Staff Uncommon 49
+Boots of the Dauntless Uncommon 48
+Rare Boots of Extra Clicks Rare 49
+Premium Staff of the Dawn Rare 47
+Quintessential Necklace of the Dawn Rare 49
+Balanced Boots of Foreboding Uncommon 48
+Kingly Ring Historic 50
+Fierce Boots of Greatness Rare 48
+Formidable Boots of the Daring Uncommon 49
+First Rate Boots of the Blistered Uncommon 49
+Blessed Staff of the Infirm Rare 47
+Boots of the Dashing Uncommon 49
+Boots of the Intoxicated Uncommon 48
+Ungodly Wand Historic 46
+First Class Wand of the Vain Uncommon 48
+Beautiful Wizard Hat of Pleasure Rare 50
+Select Boots of Mettle Uncommon 49
+Severe Wand Uncommon 48
+Royal Staff of the Courageous Uncommon 48
+Boots of Greatness Rare 48
+One of a Kind Boots of Preeminent Attitude Ancient 47
+Genius Boots of Massive Ferocity Ancient 46
+Miraculous Wizard Hat of Preeminent Victory Ancient 48
+First Rate Staff Uncommon 48
+Exclusive Robes of Unconventional Style Ancient 47
+Boots of Ferocity Rare 45
+Quintessential Wizard Hat of Torture Rare 48
+Chrome Boots of the Darkness Uncommon 45
+Keen Wizard Hat of Stardom Uncommon 48
+Select Necklace of Malevolence Uncommon 48
+Special Boots Uncommon 45
+Up-To-Snuff Boots of the Average Common 45
+Commonplace Staff Common 45
+Tolerable Boots Common 46
+Wizard Hat of the Willing Uncommon 48
+Pleasant Staff Common 46
+Unremarkable Wand Common 44
+Necklace of Familiarity Common 46
+Robes of Mettle Uncommon 45
+Special Cloak Uncommon 46
+Garden Variety Boots Common 43
+Necklace of Serviceability Common 46
+Wand of the Ordinary Common 44
+Cloak of the Ordinary Common 48
+Cloak of the Ordinary Common 48
+Robes of the Masses Common 48
+Modest Ring of Suitability Common 46
+Boots of the Deep Rare 17
+First Class Boots Uncommon 17
+High Grade Ring Rare 17
+Wand of the Adventurous Uncommon 17
+Requisite Boots of Value Common 17
+Superior Boots Uncommon 17
+Worthy Wand of the Ordinary Common 17
+Reputable Boots Common 17
+Classic Ring of Dread Rare 17
+Diminished Staff Common 17
+Normal Boots Common 17
+Stock Staff Common 17
+Relevant Boots of the Masses Common 17
+Tolerable Boots of Adequacy Common 17
+Distinctive Boots Uncommon 15
+Boots of the Average Common 17
+Useful Boots Common 17
+Decent Boots of Regularity Common 16
+Okay Wand Common 17
+Diminished Wand Common 16
+Modest Boots Common 16
+Staff of Routine Common 16
+Necklace of Predictability Uncommon 16
+Commendable Ring of the Daring Uncommon 16
+Normal Necklace Common 17
+Imperfect Staff of Acceptability Common 16
+Moderate Necklace Common 17
+Boots of the Ordinary Common 15
+All Right Staff of Suitability Common 15
+Fine Boots Common 16
+Heavenly Boots of the Goddess Historic 18
+Heroic Boots of the Cataclysm Historic 17
+Name Brand Boots of Revenge Uncommon 18
+Elegant Necklace Rare 18
+Fearsome Boots Rare 18
+Chrome Wand Uncommon 17
+Fancy Boots of Confidence Uncommon 18
+Chrome Boots of the Vain Uncommon 17
+Shiny Staff Uncommon 18
+Staff of Value Common 18
+Good Boots of Decency Common 18
+Stalwart Wizard Hat of Violence Uncommon 18
+Boots of Acceptability Common 18
+Amazing Necklace of the Fearless Rare 17
+Admirable Staff of Victory Uncommon 17
+Imperfect Boots Common 18
+Select Ring of Pain Uncommon 18
+Ferocious Necklace of Confidence Uncommon 18
+Remarkable Necklace of Intensity Uncommon 18
+Fair Wand of the Average Common 17
+Regular Wand of Simplicity Common 17
+Wand of the Masses Common 18
+Extraordinary Cloak of Fire Rare 18
+Boots of the Average Common 18
+Boots of Regularity Common 17
+Typical Boots of Normality Common 18
+Boots of Simplicity Common 17
+Staff of Regularity Common 17
+Boots of Familiarity Common 18
+Ring of the Adventurous Uncommon 18
+Boots of Acceptability Common 23
+Staff of Suitability Common 22
+Swank Staff of Fear Uncommon 19
+Ring of Violence Uncommon 23
+Staff of the Daring Uncommon 19
+Desirable Boots Uncommon 19
+Boots of Decimation Historic 18
+Highborn Staff of Terror Rare 19
+Extravagant Staff of Terror Rare 18
+Admirable Necklace of Mirth Uncommon 21
+Necklace of Ease Rare 19
+Tasteful Staff of the Doomed Uncommon 19
+Okay Wand Common 19
+Commonplace Wizard Hat Common 23
+Heavy Boots of Keenness Uncommon 18
+Boots of Mirth Uncommon 18
+Top Notch Boots of Adventure Uncommon 18
+Bearable Ring Common 23
+Elegant Wizard Hat of Purity Rare 19
+Superior Necklace of the Just Uncommon 19
+Wizard Hat of Suitability Common 23
+Wand of the Ordinary Common 19
+Unmerciful Wizard Hat Historic 18
+Ring of Ice Rare 18
+Staff of Ferocity Rare 17
+Commonplace Wand of the Masses Common 19
+Wand of Malevolence Uncommon 18
+Appropriate Wand Common 19
+Sharp Boots of Confidence Uncommon 18
+Seminal Necklace of the Intrepid Rare 18
+Copper Boots Common 19
+Good Boots of the Masses Common 19
+General Boots of Routine Common 19
+Relevant Staff Common 19
+Modest Wand Common 19
+Everyday Staff of Normality Common 18
+Fine Necklace of the Blistered Uncommon 18
+Necklace of Usefulness Common 19
+Ordinary Staff Common 18
+Necklace of Familiarity Common 19
+Fine Cloak of Piercing Uncommon 19
+Garden Variety Necklace of Adequacy Common 19
+Top Notch Ring of the Darkness Uncommon 19
+Useful Necklace of Simplicity Common 19
+General Staff of Value Common 18
+Acceptable Staff of Adequacy Common 18
+Swank Necklace of Persistence Uncommon 17
+Cloak of the Average Common 19
+Wand of Adequacy Common 18
+Ring of the Masses Common 19
+Sufficient Cloak Common 19
+Wizard Hat of Familiarity Common 18
+Passable Necklace Common 18
+Adequate Wizard Hat of the Ordinary Common 19
+Relevant Necklace Common 18
+Customary Boots Common 17
+Ring of Imperfection Common 18
+Wand of Serviceability Common 16
+Wizard Hat of Regularity Common 17
+Royal Boots of the Vain Uncommon 29
+Boots of Usefulness Common 29
+Wand of Serviceability Common 29
+First Rate Cloak Uncommon 29
+Okay Staff of Acceptability Common 29
+Passable Boots Common 29
+Ring of Keenness Uncommon 29
+Cloak of Stardom Uncommon 29
+Acceptable Wand Common 29
+Staff of Value Common 29
+Bronze Necklace of Acceptability Common 29
+Suitable Wand Common 29
+Honest Ring of Persistence Uncommon 29
+Top Notch Cloak Uncommon 29
+Seemly Necklace Common 29
+Ornate Boots Rare 23
+Stock Necklace of Normality Common 29
+Wizard Hat of Acceptability Common 29
+Almighty Boots of Awe Historic 23
+Boots of Frost Rare 23
+Passable Staff of Suitability Common 27
+Cloak of Decency Common 29
+Garden Variety Wizard Hat of the Ordinary Common 29
+General Necklace Common 29
+Elegant Wand of Flames Rare 23
+Bearable Wizard Hat of Decency Common 29
+Sharp Staff Uncommon 23
+Marvelous Boots of Fear Uncommon 23
+Garden Variety Wizard Hat of the Ordinary Common 29
+Transcendent Wand of the Audacious Historic 21
+Remarkable Wand Uncommon 23
+Heavy Wand Uncommon 22
+High Class Ring of Ice Rare 23
+First Class Staff of Spirit Uncommon 22
+Reputable Boots Common 23
+Acceptable Staff of Decency Common 23
+Seminal Boots Rare 20
+Swank Wand of Determination Uncommon 21
+Necklace of the Willing Uncommon 23
+Faultless Staff Rare 20
+Boots of the Darkness Uncommon 21
+Blessed Boots of the Feared Rare 21
+Appropriate Staff of the Masses Common 23
+Necklace of the People Common 25
+Staff of Simplicity Common 23
+Refined Staff Uncommon 21
+Wand of Confidence Uncommon 21
+Wand of Imperfection Common 23
+Blessed Wizard Hat of Extravagance Rare 22
+Suitable Boots Common 23
+Intermediate Boots Common 22
+Intermediate Boots Common 23
+Boots of Adequacy Common 22
+Handsome Cloak of Piercing Uncommon 23
+Diminished Wand of Decency Common 22
+Typical Cloak of Routine Common 25
+Staff of Value Common 22
+Stalwart Necklace of Foreboding Uncommon 22
+Modest Boots of Adequacy Common 25
+Basic Necklace Common 25
+Singular Ring of Wonder Rare 23
+Seminal Boots Rare 20
+Faultless Staff Rare 20
+Necklace of the People Common 25
+Typical Cloak of Routine Common 25
+Cloak of Adequacy Common 25
+Premium Wand of Glitz Rare 18
+Staff of Glamour Rare 18
+Ferocious Boots of Confidence Uncommon 20
+Royal Staff of the Daring Uncommon 19
+Awesome Robes of Wonder Rare 20
+Iron Boots of Familiarity Common 20
+Suitable Wand of Regularity Common 20
+Agreeable Staff of Normality Common 20
+Staff of Routine Common 20
+Premier Robes of the Feared Rare 20
+Amazing Robes of the Valiant Rare 20
+Cloak of Impartiality Uncommon 20
+Name Brand Wizard Hat of Frost Uncommon 20
+Wand of Familiarity Common 20
+Everyday Wand Common 20
+Swank Necklace of Determination Uncommon 20
+Run of the Mill Boots Common 20
+Boots of Routine Common 20
+Wand of the Average Common 20
+Desirable Ring of the Dauntless Uncommon 20
+Usual Boots Common 19
+Special Wizard Hat of Stardom Uncommon 19
+Usual Boots Common 29
+Extraordinary Boots of Explosions Rare 26
+Moderate Wand Common 29
+Ordinary Staff of Acceptability Common 29
+Unremarkable Boots Common 29
+Ring of Mirth Uncommon 29
+Steel Staff of Foreboding Uncommon 26
+Distinctive Cloak Uncommon 29
+Staff of Keenness Uncommon 26
+Fine Staff of Routine Common 29
+Necklace of the Average Common 29
+Simple Wand Common 29
+Desirable Cloak of Fright Uncommon 29
+Murderous Wand of the Ancients Historic 22
+Boots of Explosions Rare 23
+Boots of Flames Rare 23
+Usual Necklace of the People Common 29
+Boots of Stardust Historic 23
+Classic Boots of Greatness Rare 23
+Simple Staff of Normality Common 27
+Boots of Serviceability Common 26
+Cloak of Adequacy Common 29
+Wizard Hat of Simplicity Common 29
+Miraculous Boots of Innate Violence Ancient  22
+Necklace of Serviceability Common 29
+High Class Boots Rare 24
+Staff of Usefulness Common 26
+Beautiful Wand of Flames Rare 23
+Name Brand Wizard Hat of the Dauntless Uncommon 26
+Wizard Hat of the People Common 29
+Tasteful Boots of Frost Uncommon 33
+Worthy Staff Common 35
+Decent Necklace Common 35
+Wand of Normality Common 33
+Customary Wizard Hat of Routine Common 34
+Relevant Cloak of Suitability Common 35
+Garden Variety Necklace Common 33
+Sensational Staff of the Fearless Rare 27
+Necklace of Familiarity Common 33
+Intermediate Cloak of Normality Common 33
+Modest Wizard Hat of Simplicity Common 33
+Seminal Staff of Purity Rare 26
+Ring of Usefulness Common 33
+Royal Wand of Victory Uncommon 26
+Wand of the Shadows Historic 25
+Staff of the Valiant Rare 24
+Prime Staff of Perseverance Uncommon 26
+Distinctive Boots Uncommon 25
+General Wand of the Masses Common 26
+Good Boots of the Courageous Uncommon 25
+Astonishing Wand Rare 24
+Gallant Boots of Courage Uncommon 25
+Staff of Confidence Uncommon 25
+Distinctive Wand of Courage Uncommon 25
+Routine Boots of Routine Common 26
+Good Boots of Predictability Uncommon 24
+Unremarkable Wand of Imperfection Common  25
+Remarkable Necklace of Persistence Uncommon 26
+Marvelous Boots of Malevolence Uncommon 24
+Name Brand Robes of the Daring Uncommon 26
+Severe Wand Uncommon 35
+Fine Ring of the Darkness Uncommon 34
+Basic Robes of Regularity Common 36
+Stalwart Wizard Hat of Bravery Uncommon 34
+Typical Cloak of Regularity Common 36
+Seemly Wizard Hat of Familiarity Common 36
+Ring of Adequacy Common 34
+Passable Cloak Common 35
+Standard Ring of Value Common 35
+Stock Wizard Hat Common 35
+Uncommon Staff Uncommon 27
+Select Boots of the Adventurous Uncommon 27
+Hard Boots of Pain Uncommon 26
+Superior Staff Uncommon 26
+Miraculous Robes of Annihilation Historic 27
+Marvelous Wand of the Dashing Uncommon 27
+Special Wand of Intensity Uncommon 26
+Luxury Boots of the Dawn Rare 25
+Desirable Necklace of the Doomed Uncommon 27
+Top Notch Staff Uncommon 26
+Conventional Staff Common 27
+Refined Boots Uncommon 25
+Iron Staff of Simplicity Common 27
+Boots of the Ordinary Common 27
+Intermediate Boots Common 27
+Swank Necklace of the Rain Uncommon 26
+Ring of Happiness Rare 26
+Unremarkable Wand of Simplicity Common 27
+Amazing Boots of Wonder Rare 25
+Boots of Routine Common 28
+Wand of the Average Common 40
+Severe Wand Uncommon 35
+Wholesome Boots Uncommon 35
+Quaint Wizard Hat of the Masses Common 40
+Nice Necklace of Decency Common 40
+Ring of the Darkness Uncommon 34
+Fine Ring of the Darkness Uncommon 34
+Wizard Hat of the Dauntless Uncommon 34
+Robes of Familiarity Common 40
+Imperfect Wizard Hat Common 39
+Basic Robes of Regularity Common 36
+Stalwart Wizard Hat of Bravery Uncommon 34
+First Rate Necklace of Predictability Uncommon  35
+Typical Cloak of Regularity Common 36
+Seemly Wizard Hat of Familiarity Common 36
+Boots of Demolition Uncommon 29
+Ring of Adequacy Common 34
+Boots of the Daring Uncommon 29
+Royal Wand Uncommon 29
+Passable Cloak Common 35
+Standard Ring of Value Common 35
+Stock Wizard Hat Common 35
+Good Staff Uncommon 29
+Formidable Necklace Uncommon 29
+Ferocious Necklace Uncommon 29
+Uncommon Staff Uncommon 27
+Choice Staff Uncommon 29
+Select Boots of the Adventurous Uncommon 27
+Ordinary Boots Common 29
+Boots of the People Common 29
+Lovely Cloak of Wonderment Rare 36
+Wizard Hat of the Willing Uncommon 39
+Commendable Ring Uncommon 40
+Superior Necklace Uncommon 38
+Boots of Annihilation Historic 38
+Conventional Boots of Simplicity Common 30
+Requisite Boots of Imperfection Common 30
+Wand of Regularity Common 30
+Boots of Familiarity Common 30
+Elegant Necklace of Torture Rare 27
+Wizard Hat of Mettle Uncommon 30
+Normal Necklace of Imperfection Common 30
+All Right Necklace Common 29
+Necklace of Usefulness Common 29
+Cloak of the Masses Common 29
+Cloak of Routine Common 30
+Necklace of Serviceability Common 29
+Ring of the People Common 30
+Plain Cloak of Normality Common 30
+Robes of the Ordinary Common 30
+Wizard Hat of the Masses Common 30
+Bronze Ring of Decency Common 29
+Robes of Simplicity Common 30
+Normal Robes of Serviceability Common 29
+All Right Necklace of Regularity Common 28
+Standard Robes Common 29
+Normal Cloak of the Masses Common 27
+Okay Cloak Common 28
+Cloak of Explosions Rare 36
+Remarkable Ring Uncommon 40
+Basic Wizard Hat of Usefulness Common 42
+Wizard Hat of Adequacy Common 42
+Wizard Hat of Mettle Uncommon 39
+Commonplace Wizard Hat of Regularity Common 42
+Basic Wizard Hat Common 42
+Wizard Hat of Routine Common 42
+Elegant Staff of Purity Rare 31
+Shiny Wand of the Willing Uncommon 31
+Fierce Boots Rare 30
+Necklace of Terror Rare 31
+Heavy Boots of the Blistered Uncommon 31
+Faultless Boots of the Fearless Rare 30
+Staff of the Hardy Rare 30
+Remarkable Boots of the Blistered Uncommon 30
+Staff of the Darkness Uncommon 30
+Desirable Boots Uncommon 30
+Commendable Wand of Spirit Uncommon 31
+Severe Necklace of the Vain Uncommon 31
+First Rate Staff of Frost Uncommon 30
+Keen Wand Uncommon 31
+Polished Staff Uncommon 30
+Tasteful Necklace of the Just Uncommon 31
+Commendable Wand Uncommon 30
+Premier Staff of Extravagance Rare 29
+Gallant Wand of Heaviness Uncommon 29
+Rare Wizard Hat of the Intrepid Rare 31
+First Rate Necklace Uncommon 31
+Handsome Boots of the Rain Uncommon 29
+Chrome Wand Uncommon 42
+Swank Wand of Fear Uncommon 42
+Boots of the Dashing Uncommon 42
+Basic Wand Common 42
+Tasteful Wand of Persistence Uncommon 31
+Staff of the Blistered Uncommon 30
+Admirable Wand Uncommon 31
+Stalwart Boots of Predictability Uncommon 30
+Ring of the Undeterred Historic 31
+Admirable Boots Uncommon 30
+Honest Boots of Pain Uncommon 31
+Select Staff of Friendship Uncommon 29
+Noble Wizard Hat Rare 31
+Polished Boots of Determination Uncommon 30
+Steel Staff of the Dauntless Uncommon 30
+Fearsome Robes Rare 31
+Bearable Wand of Adequacy Common 31
+Severe Wand of Frost Uncommon 29
+Boots of Friendship Uncommon 29
+Superlative Cloak Rare 30
+Useful Boots of Familiarity Common 31
+Keen Ring Uncommon 31
+Quaint Staff of Value Common 31
+Bearable Boots of the Ordinary Common 30
+Wand of Simplicity Common 30
+Desirable Staff Uncommon 29
+Staff of the Terrorized Uncommon 30
+Steel Necklace Uncommon 31
+Wand of Adequacy Common 31
+Ordinary Staff of Familiarity Common 31
+Swank Wand of Fear Uncommon 42
+Boots of Devastation Historic 38
+Top Notch Wand of Frost Uncommon 39
+Basic Wand Common 42
+Faultless Staff of Frost Rare 31
+Desirable Boots of the Rain Uncommon 31
+Heavy Wand of Mettle Uncommon 30
+Sharp Staff of Intensity Uncommon 29
+Stout Wand of the Doomed Uncommon 31
+First Rate Boots Uncommon 29
+Basic Wand Common 31
+Fine Staff Uncommon 29
+Good Necklace of the Vanquished Uncommon 31
+Staff of Foreboding Uncommon 29
+Boots of Decency Common 31
+Heavy Boots of Bravery Uncommon 28
+Preeminent Necklace of Pleasure Rare 30
+Boots of Usefulness Common 31
+Sufficient Staff Common 31
+Tasteful Wizard Hat Uncommon 31
+Boots of Acceptability Common 31
+Typical Staff Common 30
+Uncommon Boots of the Willing Uncommon 29
+All Right Staff Common 30
+Desirable Staff of Heaviness Uncommon 27
+Chrome Staff of Predictability Uncommon 29
+Standard Staff of the Ordinary Common 30
+Plain Wand Common 29
+Worthy Necklace of Simplicity Common 31
+Copper Boots of Acceptability Common 30
+Staff of Predictability Uncommon 32
+Staff of Victory Uncommon 32
+Stout Boots of the Blistered Uncommon 32
+Ring of Purity Rare 32
+Elegant Boots Rare 30
+Special Wand Uncommon 32
+Requisite Staff Common 32
+Necklace of Frost Rare 32
+Reputable Boots of Usefulness Common 32
+Unexceptional Boots of Regularity Common 32
+Plain Boots of Value Common 32
+Good Boots Common 32
+Pleasant Wand Common 32
+Wholesome Wand Uncommon 30
+Decent Boots Common 32
+Precious Ring Rare 32
+Routine Boots of Familiarity Common 32
+Staff of Normality Common 32
+Admirable Wand Uncommon 30
+Necklace of Heaviness Uncommon 31
+Staff of the People Common 32
+Boots of the Average Common 31
+Staff of Imperfection Common 32
+Wand of Value Common 32
+Staff of the Masses Common 31
+Plain Boots Common 31
+Select Wizard Hat Uncommon 32
+Moderate Boots Common 30
+Firm Necklace of the Dashing Uncommon 30
+Staff of Normality Common 30
+
+OCR this, [01.06.18 01:18]
+Admirable Necklace Uncommon 54
+Sharp Necklace Uncommon 56
+Common Necklace Common 58
+Necklace of the Moon Historic 50
+Miraculous Wizard Hat of Preeminent Victory Ancient 48
+Heavy Wand of the Vain Uncommon 48
+Reasonable Staff of Acceptability Common 48
+Honest Wizard Hat of Malevolence Uncommon 48
+Usual Boots of Serviceability Common 48
+Staff of the Masses Common 47
+Boots of Value Common 48
+Honest Wizard Hat of Foreboding Uncommon 48
+Necklace of Malevolence Uncommon 48
+Wizard Hat of Impartiality Uncommon 48
+Boots of Acceptability Common 48
+Remarkable Ring of the Bold Uncommon 48
+Sharp Ring of Violence Uncommon 48
+Swank Ring Uncommon 48
+Robes of Regularity Common 48
+Ring of the Average Common 48
+Balanced Cloak Uncommon 46
+Ring of the Ordinary Common 48
+General Ring of Value Common 47
+
+OCR this, [01.06.18 09:25]
+Boots of Adequacy Common 61
+Laudable Wand of Armageddon Historic 53
+Fine Necklace of Heaviness Uncommon 58
+Reputable Staff Common 62
+Blessed Boots of Happiness Rare 52
+Boots of the Pure Historic 51
+Boots of Ferocity Rare 52
+Wholesome Wand Uncommon 52
+Ordinary Ring Common 62
+Smart Boots of Astonishing Perfection Ancient 47
+Boots of Wonder Rare 49
+Almighty Robes of Devastation Historic 52
+Luxury Necklace of Fascination Rare 52
+Quintessential Boots of Dread Rare 51
+Superlative Boots of Pleasure Rare 50
+Iron Ring of Suitability Common 62
+Amazing Staff of Purity Rare 48
+Wand of Determination Uncommon 52
+Wand of Serviceability Common 52
+Unremarkable Boots of Familiarity Common 52
+Wizard Hat of Pleasure Rare 50
+Ornate Boots of the Valiant Rare 48
+Premier Ring Rare 53
+Lone Robes of Unrivaled Greatness Ancient 47
+Remarkable Necklace Uncommon 52
+Righteous Cloak Historic 49
+Adequate Boots of Routine Common 52
+Ring of Fascination Rare 49
+Boots of Victory Uncommon 48
+Boots of Normality Common 50
+
+OCR this, [01.06.18 10:21]
+Top Notch Staff of Demolition Uncommon 62
+Premium Ring Rare 65
+Intermediate Boots of Acceptability Common 65
+Robes of Keenness Uncommon 65
+Precious Ring of Fascination Rare 61
+Uncommon Boots of Heaviness Uncommon 60
+Ferocious Cloak of the Just Uncommon 61
+Superior Staff of the Darkness Uncommon 53
+Prime Wand of the Vain Uncommon 53
+Commonplace Necklace of Adequacy Common 63
+Staff of Confidence Uncommon 53
+Commendable Boots of Spirit Uncommon 52
+Prime Boots of Demolition Uncommon 54
+Wizard Hat of the Earth Rare 54
+Mystical Necklace of the Feared Rare 54
+High Class Necklace of Ease Rare 53
+Fine Boots Uncommon 53
+Beautiful Necklace of Frost Rare 52
+Modest Wand Common 54
+Staff of Stardom Uncommon 52
+Wand of the Average Common 54
+Handsome Boots of Adventure Uncommon 52
+Ferocious Necklace Uncommon 54
+Balanced Necklace of the Doomed Uncommon 54
+Quintessential Boots of Punishment Rare  49
+Fancy Wand Uncommon 51
+Royal Boots Uncommon 51
+Staff of Usefulness Common 53
+Remarkable Boots of Violence Uncommon 51
+Wand of the Bold Uncommon 51
+
+OCR this, [01.06.18 16:18]
+Firm Wand Uncommon 65
+Immortal Necklace Historic 60
+Sensational Boots of Punishment Rare 60
+Special Staff of Impartiality Uncommon 60
+Fine Wand of the Bold Uncommon 60
+Hard Boots of the Courageous Uncommon 60
+Staff of the Hardy Rare 57
+Heavy Boots of Spirit Uncommon 60
+Wizard Hat of Revenge Uncommon 65
+Extravagant Necklace of Glamour Rare 60
+Exquisite Wand of Pleasure Rare 57
+Faultless Wand Rare 58
+First Rate Boots of the Intoxicated Uncommon 60
+Boots of the Dashing Uncommon 59
+First Class Wand of the Darkness Uncommon 60
+Precious Necklace of the Hardy Rare 60
+Faultless Staff Rare 59
+Necklace of the Sky Historic 60
+Stalwart Boots Uncommon 59
+Commendable Staff of Courage Uncommon 58
+Premier Necklace of Greatness Rare 59
+Hard Boots Uncommon 59
+Glorious Necklace Rare 59
+Wand of Flames Rare 58
+Stout Boots Uncommon 59
+Severe Wand of Frost Uncommon 59
+Formidable Boots of Revenge Uncommon 60
+Praiseworthy Wand of Peace Uncommon 57
+First Rate Wand of the Blistered Uncommon 57
+Desirable Boots of the Dauntless Uncommon 59
+
+OCR this, [01.06.18 18:10]
+Superior Necklace of Friendship Uncommon 67
+Quintessential Boots of the Deep Rare 61
+Preeminent Boots of the Deep Rare 60
+Elegant Boots of Ease Rare 61
+Quintessential Boots of Amazement Rare 59
+Vanilla Necklace Common 69
+Distinctive Wand of the Dauntless Uncommon 61
+Staff of the Rain Uncommon 61
+Exquisite Staff of the Dawn Rare 61
+Faultless Necklace of Extra Clicks Rare 61
+Remarkable Boots of Wounding Uncommon 61
+Chrome Wand of Malevolence Uncommon 60
+Shiny Boots of Malevolence Uncommon 61
+Excellent Necklace of Ferocity Rare 61
+Gallant Staff of Persistence Uncommon 59
+Sacred Wizard Hat of the Moon Historic 60
+Superior Wizard Hat of the Tortured Uncommon 67
+Necklace of Extravagance Rare 61
+Wizard Hat of the Fearless Rare 61
+Preeminent Boots Rare 57
+Extravagant Boots of Frost Rare 59
+Polished Boots Uncommon 59
+Gallant Boots of Confidence Uncommon 59
+Staff of the Terrorized Uncommon 61
+Swank Boots Uncommon 58
+Worthy Wand Common 61
+Perfect Boots of Extravagance Rare 58
+First Rate Necklace of Victory Uncommon 61
+Boots of Victory Uncommon 59
+Praiseworthy Necklace Uncommon 61
+
+OCR this, [01.06.18 23:45]
+Sanctified Boots Historic 63
+Refined Boots of the Dauntless Uncommon 66
+Wand of Glitz Rare 63
+Angelic Wand of Decimation Historic 62
+Fancy Wand of the Willing Uncommon 63
+Brilliant Staff of Extraordinary Persistence Ancient 58
+Singular Wand of Amazement Rare 63
+Marvelous Boots of Demolition Uncommon 63
+Beautiful Staff of Glamour Rare 63
+Singular Robes of the Infirm Rare 65
+Basic Wand of Familiarity Common 63
+Necklace of the Terrorized Uncommon 62
+Respectable Wand of Adequacy Common 62
+Keen Necklace of Spirit Uncommon 63
+Polished Wizard Hat of the Daring Uncommon 63
+Select Ring Uncommon 62
+Conventional Necklace of Simplicity Common  63
+Garden Variety Boots of Suitability Common 63 
+Commonplace Necklace of Simplicity Common 63
+Worthy Robes Common 63
+Bronze Ring Common 63
+Requisite Wizard Hat Common 63
+Ordinary Necklace Common 63
+Up-To-Snuff Cloak Common 63
+Robes of Acceptability Common 63
+Toned Ring of Suitability Common 63
+
+OCR this, [02.06.18 00:33]
+Boots of the Dashing Uncommon 73
+Desirable Boots of the Willing Uncommon 73
+Tasteful Boots Uncommon 72
+Staff of Piercing Uncommon 73
+Staff of Normality Common 74
+Incomparable Boots of the Ages Historic 63
+Useful Boots Common 74
+Striking Wand of Extra Clicks Rare 63
+Relevant Wand of Regularity Common 72
+Stout Wand Uncommon 64
+Wand of the Sun Historic 61
+Sensational Staff Rare 63
+Wand of Explosions Rare 64
+Sharp Wand of the Daring Uncommon 64
+Ungodly Necklace of the Blessed Ones Historic 61
+Ring of Decency Common 73
+Ring of the People Common 73
+Wand of Glory Rare 63
+Marvelous Boots Uncommon 63
+Fierce Wand Rare 60
+Robes of Imperfection Common 73
+Desirable Boots of Pain Uncommon 62
+Wand of Persistence Uncommon 62
+Necklace of Simplicity Common 74
+Uncommon Boots Uncommon 62
+Glorious Wand Rare 63
+Sharp Wand of Heaviness Uncommon 64
+General Ring of Suitability Common 74
+Ring of the Earth Rare 65
+Excellent Staff of the Forgotten Rare 62
+
+OCR this, [02.06.18 07:37]
+Seemly Necklace of Suitability Common 74
+Superior Wizard Hat of Fright Uncommon 74
+Quality Boots Uncommon 66
+Boots of Intensity Uncommon 66
+Highborn Wizard Hat Rare 69
+Remarkable Staff Uncommon 66
+Ring of the Ordinary Common 73
+Severe Wand of Wounding Uncommon 66
+Select Necklace Uncommon 66
+Toned Staff of Imperfection Common 66
+Name Brand Necklace of the Tortured Uncommon 66
+Appropriate Wand of Imperfection Common 66
+Swank Necklace of Keenness Uncommon 66
+Ordinary Boots of the Masses Common 64
+Proper Staff Common 65
+Iron Boots Common 64
+Name Brand Ring of the Rain Uncommon 66
+Fine Ring of the Rain Uncommon 66
+Polished Wizard Hat Uncommon 66
+Routine Necklace of Normality Common 64
+Standard-Issue Robes Common 66
+Cloak of Normality Common 66
+Tasteful Ring Uncommon 64
+Relevant Wizard Hat of Regularity Common 66
+Necklace of Serviceability Common 65
+Necklace of Routine Common 66
+Wizard Hat of Usefulness Common 66
+Fine Robes of Usefulness Common 66
+Bronze Cloak Common 64
+
+OCR this, [02.06.18 10:32]
+Extravagant Boots of the Forgotten Rare  65
+Awesome Boots Rare 65
+Wondrous Necklace of the Righteous Historic 66
+Commendable Boots Uncommon 66
+Necklace of Armageddon Historic 66
+Ring of the Pure Historic 66
+Boots of Wounding Uncommon 65
+Choice Boots of Fear Uncommon 66
+Desirable Boots Uncommon 65
+Wandof the Terrorized Uncommon 66
+Desirable Boots of the Bold Uncommon 66
+Premier Staff of Dread Rare 65
+Firm Boots of Revenge Uncommon 64
+Top Notch Wand of Determination Uncommon 64
+Sensational Necklace of Fire Rare 65
+Boots of Friendship Uncommon 64
+Prime Boots of Wounding Uncommon 64
+Wand of the Dashing Uncommon 66
+Boots of the Vanquished Uncommon 63
+Choice Staff Uncommon 66
+Wholesome Staff of Piercing Uncommon 66
+Boots of Friendship Uncommon 65
+Necklace of Mettle Uncommon 66
+Intermediate Wand Common 66
+Quaint Boots of Decency Common 66
+Preeminent Cloak of Explosions Rare 65
+Amazing Wizard Hat of Wonder Rare 65
+Prime Staff of the Dauntless Uncommon 63
+Bearable Boots Common 65
+All Right Wand of Adequacy Common 65
+
+OCR this, [02.06.18 18:05]
+Wand of the Feared Rare 68
+Sharp Boots of Malevolence Uncommon 71
+Polished Boots Uncommon 70
+Smart Wizard Hat of Intoxicating Coolness Ancient 71
+Formidable Wand of Frost Uncommon 70
+Desirable Boots Uncommon 71
+Boots of the Vain Uncommon 70
+Blessed Staff Rare 70
+Excellent Boots of Ease Rare 70
+Gallant Staff of the Intoxicated Uncommon 70
+Desirable Wand of Heaviness Uncommon 70
+Heavy Boots of the Doomed Uncommon 71
+Stout Staff of Adventure Uncommon 70
+Boots of the Just Uncommon 69
+Tasteful Staff of Bravery Uncommon 70
+Admirable Boots of the Dashing Uncommon 69
+Lovely Cloak of Glitz Rare 70
+Tasteful Staff of Perseverance Uncommon 71
+Staff of Bravery Uncommon 70
+Ring of Glamour Rare 71
+Marvelous Boots of the Just Uncommon 70
+Vanilla Staff of Adequacy Common 71
+Ungodly Cloak of the Righteous Historic 69
+Distinctive Necklace Uncommon 69
+Prime Necklace of Perseverance Uncommon 70
+Distinctive Wand Uncommon 70
+Fancy Necklace of the Intoxicated Uncommon 71
+Severe Boots of Mirth Uncommon 69
+
+OCR this, [02.06.18 18:06]
+One of a Kind Wizard Hat of Astonishing Spirit Ancient 65
+
+OCR this, [02.06.18 21:29]
+Boots of Wonder Rare 79
+Severe Wand Uncommon 82
+Sanctified Wand of Fortune Historic 74
+Peerless Staff of Faith Historic 75
+Premier Wand of the Feared Rare 79
+Boots of the People Common 84
+Steel Necklace of Friendship Uncommon 82
+Good Wizard Hat Uncommon 84
+Staff of Routine Common 83
+Moderate Staff of Familiarity Common 83
+Staff of Heaviness Uncommon 76
+Severe Wand Uncommon 75
+Awesome Boots of Ferocity Rare 72
+Boots of Glitz Rare 72
+Robes of Joy Rare 82
+Singular Staff of Glamour Rare 76
+Boots of the Bold Uncommon 74
+Supreme Boots of Ice Rare 72
+Bearable Wand Common 82
+First Rate Cloak of the Bold Uncommon 82
+Praiseworthy Wand of the Tortured Uncommon  74
+Preeminent Wand Rare 72
+Staff of Bravery Uncommon 73
+Peerless Necklace of Unimaginable Devastation Ancient 70
+Boots of Perseverance Uncommon 75
+Special Staff of the Darkness Uncommon 75
+Wand of the Willing Uncommon 76
+Faultless Staff Rare 72
+Wand of Fear Uncommon 73
+Necklace of Regularity Common 84
+
+OCR this, [02.06.18 23:15]
+Stalwart Boots of Foreboding Uncommon 84
+Exquisite Necklace of the Valiant Rare 83
+Ring of the Mists Historic 82
+Shiny Wand of Fright Uncommon 83
+Superlative Staff Rare 76
+Wand of the Moon Historic 77
+Luxury Staff of Frost Rare 76
+Faultless Wand Rare 77
+Quintessential Boots of Perfection Rare 77
+Precious Boots of Extra Clicks Rare 77
+Name Brand Boots of the Vain Uncommon 77
+Premier Necklace Rare 77
+Praiseworthy Boots of Intensity Uncommon 77
+Glorious Boots of the Fearless Rare 77
+Ferocious Staff of Intensity Uncommon 77
+Wand of Piercing Uncommon 76
+Honest Wand of Fright Uncommon 76
+Admirable Wand of the Bold Uncommon 75
+Superior Boots Uncommon 75
+Handsome Boots of Stardom Uncommon 77
+First Class Boots of the Courageous Uncommon 77
+Honest Boots of the Darkness Uncommon 74
+Desirable Wand of the Just Uncommon 77
+Fancy Wand of the Courageous Uncommon 76
+Uncommon Boots Uncommon 77
+Boots of Fear Uncommon 74
+First Class Staff of Malevolence Uncommon 77
+Steel Boots Uncommon 76
+Stout Boots of Violence Uncommon 77
+Necklace of Happiness Rare 77
+
+OCR this, [03.06.18 08:39]
+Marvelous Boots Uncommon 86
+Beautiful Wand Rare 79
+Precious Wand of Greatness Rare 79
+Classic Boots of Terror Rare 79
+Fierce Wand Rare 77
+Striking Staff of Greatness Rare 77
+Premium Boots Rare 77
+Ungodly Boots of the Undaunted Historic 78
+Precious Boots of Punishment Rare 79
+Singular Staff of Perfection Rare 77
+Staff of the Hardy Rare 76
+Gallant Boots of the Vain Uncommon 79
+Shiny Boots of Confidence Uncommon 78
+Supreme Boots of Joy Rare 79
+Extravagant Boots Rare 77
+Quintessential Boots of Explosions Rare 77
+Distinctive Wand of the Doomed Uncommon 78
+Wand of Greatness Rare 78
+Boots of the Earth Rare 77
+First Rate Boots Uncommon 78
+Wholesome Boots of the Terrorized Uncommon 77
+Sensational Boots of the Fearless Rare 79
+Immaculate Necklace of the Unflinching Historic 77
+High Class Staff of Pleasure Rare 77
+Boots of Perfection Rare 78
+Praiseworthy Boots Uncommon 79
+Staff of the Daring Uncommon 79
+Rare Necklace Rare 77
+Chrome Boots Uncommon 79
+Superlative Boots Rare 78
+
+OCR this, [03.06.18 11:25]
+Lovely Wand of Amazement Rare 83
+Beautiful Boots of Ease Rare 83
+Remarkable Staff of Bravery Uncommon 81
+Boots of Terror Rare 83
+Keen Wand of Pain Uncommon 85
+Amazing Staff of Amazement Rare 82
+Boots of Happiness Rare 81
+Refined Boots of Pain Uncommon 81
+Boots of Glory Rare 81
+Supreme Wand of the Hardy Rare 82
+Handsome Staff of Confidence Uncommon 80
+Blessed Wand Rare 81
+Ornate Wand of Ferocity Rare 83
+Ferocious Boots of Spirit Uncommon 85
+Swank Boots Uncommon 81
+Gallant Wand of the Just Uncommon 83
+Astonishing Boots of Wonderment Rare 83
+Fearsome Staff of the Infirm Rare 83
+Necklace of Fire Rare 83
+Polished Wand of the Doomed Uncommon 83
+Boots of Extra Clicks Rare 82
+Sharp Necklace of Violence Uncommon 81
+Mystical Boots of Greatness Rare 82
+Refined Wand of the Terrorized Uncommon 82
+Rare Boots Rare 81
+Swank Necklace of Heaviness Uncommon 81
+Consecrated Wizard Hat of the Sacred Ones Historic 85
+Boots of the Vanquished Uncommon 83
+Ferocious Boots Uncommon 83
+Iron Wand Common 85
+
+OCR this, [03.06.18 16:32]
+Staff of the Stars Historic 84
+Extravagant Wand Rare 85
+Boots of the Intrepid Rare 85
+Striking Boots of Punishment Rare 85
+Wand of Frost Rare 85
+Boots of the Undaunted Historic 81
+Fearsome Boots of Frost Rare 83
+Forbidden Boots Historic 84
+Wand of the Earth Rare 84
+Excellent Staff Rare 85
+Highborn Staff of the Feared Rare 85
+Extravagant Boots of Flames Rare 85
+Mystical Wand of Fred's Bane Rare 84
+Extravagant Boots of Glory Rare 85
+Gallant Boots Uncommon 85
+Premium Wand of Dread Rare 85
+Ferocious Staff Uncommon 85
+Ornate Boots of Terror Rare 84
+Fierce Boots of Happiness Rare 83
+Wholesome Wand Uncommon 84
+Staff of the Forgotten Rare 84
+Uncommon Staff of the Blistered Uncommon 83
+Fancy Staff of Victory Uncommon 85
+Glorious Staff of the Dawn Rare 83
+Boots of Terror Rare 84
+Formidable Boots of Heaviness Uncommon 84
+Distinctive Boots Uncommon 83
+Stalwart Wand of Persistence Uncommon 84
+Praiseworthy Wand Uncommon 85
+Murderous Ring of Mysterious Adventure Ancient 77
+
+OCR this, [03.06.18 16:55]
+Staff of the Stars Historic 84
+Wonderful Staff Rare 86
+Extravagant Wand Rare 85
+Boots of the Intrepid Rare 85
+Striking Boots of Punishment Rare 85
+Boots of Happiness Rare 86
+Wand of Frost Rare 85
+Boots of the Undaunted Historic 81
+Fearsome Boots of Frost Rare 83
+Forbidden Boots Historic 84
+Wand of the Earth Rare 84
+Supreme Boots of Greatness Rare 85
+Excellent Staff Rare 85
+Highborn Staff of the Feared Rare 85
+Extravagant Boots of Flames Rare 85
+Mystical Wand of Fred's Bane Rare 84
+Extravagant Boots of Glory Rare 85
+Gallant Boots Uncommon 85
+Premium Wand of Dread Rare 85
+Ferocious Staff Uncommon 85
+Ornate Boots of Terror Rare 84
+Fierce Boots of Happiness Rare 83
+Wholesome Wand Uncommon 84
+Staff of the Forgotten Rare 84
+Uncommon Staff of the Blistered Uncommon 83
+Staff of Pain Uncommon 86
+Fancy Staff of Victory Uncommon 85
+Glorious Staff of the Dawn Rare 83
+Boots of Terror Rare 84
+Steel Boots of Frost Uncommon 86

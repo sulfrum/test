@@ -1,0 +1,220 @@
+#Class ninja
+
+Garden Variety Nunchaku of the Ordinary Common 1
+Average Star Common 1
+Decent Robes of the People Common 1
+Average Boots Common 1
+Belt of the People Common 1
+Basic Dagger of Suitability Common 1
+
+
+Commendable Nunchaku of Friendship Common 2
+Quality Star of Confidence Uncommon 2
+Awesome Robes Rare 2
+Boots of the Blistered Uncommon 2
+Quality Belt of the Courageous Uncommon 2
+Gallant Dagger Uncommon 2
+
+Respectable Belt Common 3
+Good Nunchaku of Revenge Uncommon 2
+Sharp Star of Demolition Uncommon 2
+Unremarkable Robes Common 2
+Commendable Dagger Uncommon 2
+Garden Variety Robes of Acceptability Common 2
+Star of Suitability Common 2
+Nunchaku of Adequacy Common 2
+Nunchaku of the Masses Common 2
+Plain Nunchaku of the People Common 2
+Nunchaku of the Ordinary Common 2
+Robes of Familiarity Common 2
+Regular Belt Common 2
+Boots of Victory Uncommon 2
+Regular Dagger Common 2
+Robes of Adequacy Common 2
+Belt of Suitability Common 2
+Tasteful Boots Uncommon 2
+
+Respectable Belt Common 3
+Good Nunchaku of Revenge Uncommon 2
+Sharp Star of Demolition Uncommon 2
+Unremarkable Robes Common 2
+Commendable Dagger Uncommon 2
+Garden Variety Robes of Acceptability Common 2
+Star of Suitability Common 2
+Nunchaku of Adequacy Common 2
+Nunchaku of the Masses Common 2
+Plain Nunchaku of the People Common 2
+Nunchaku of the Ordinary Common 2
+Robes of Familiarity Common 2
+Regular Belt Common 2
+Boots of Victory Uncommon 2
+Regular Dagger Common 2
+Robes of Adequacy Common 2
+Belt of Suitability Common 2
+Tasteful Boots Uncommon 2
+Relevant Nunchaku Common 2
+Typical Star of Decency Common 2
+Simple Belt of Regularity Common 2
+Robes of Serviceability Common 2
+Normal Robes of Imperfection Common 2
+Iron Belt of Simplicity Common 2
+Suitable Dagger Common 2
+Nunchaku of Usefulness Common 2
+Normal Nunchaku Common 2
+Boots of Decency Common 2
+Belt of Acceptability Common 2
+Belt of Simplicity Common 2
+
+
+Astonishing Nunchaku of Wonderment 3 Striking Rare 3
+Star of Joy Rare 3
+Sensational Robes Rare 3
+Boots of Fear Uncommon 2
+Consecrated Belt of the Starlight Distinctive Historic 3
+Dagger of Total Victory Ancient 3
+
+Nunchaku of Regularity Common 4
+Golden Star of the Intrepid Rare 3
+Nunchaku of Explosions Rare 3
+General Boots Common 4
+Extraordinary Star Rare 3
+Beautiful Star of the Feared Rare 3
+Robes of Flames Rare 3
+Luxury Nunchaku of the Valiant Rare 3
+Wholesome Robes of Confidence Uncommon 3
+Robes of Demolition Uncommon 3
+Swank Nunchaku Uncommon 3
+Good Nunchaku of Adventure Uncommon 3
+Mystical Robes of Terror Rare 3
+Refined Star Uncommon 3
+Star of Wounding Uncommon 3
+Supreme Dagger of the Valiant Rare 3
+First Rate Nunchaku Uncommon 3
+Swank Robes Uncommon 3
+Glorious Belt of Purity Rare 3
+
+Nunchaku of Regularity Common 4
+Golden Star of the Intrepid Rare 3
+Nunchaku of Explosions Rare 3
+General Boots Common 4
+Extraordinary Star Rare 3
+Beautiful Star of the Feared Rare 3
+Robes of Flames Rare 3
+Luxury Nunchaku of the Valiant Rare 3
+Wholesome Robes of Confidence Uncommon 3
+Robes of Demolition Uncommon 3
+Swank Nunchaku Uncommon 3
+Good Nunchaku of Adventure Uncommon 3
+Mystical Robes of Terror Rare 3
+Refined Star Uncommon 3
+Star of Wounding Uncommon 3
+Supreme Dagger of the Valiant Rare 3
+First Rate Nunchaku Uncommon 3
+Swank Robes Uncommon 3
+Glorious Belt of Purity Rare 3
+Plandsome Robes Uncommon 3
+Lovely Robes of the Forgotten Rare 3
+Preeminent Star of Flames Rare 3
+Sensational Star Rare 3
+Stout Robes Uncommon 3
+Swank Robes Uncommon 3
+Striking Belt Rare 3
+Usual Robes of Regularity Common 3
+Agreeable Belt Common 3
+Sensational Robes of the Dawn Rare 2
+Commendable Nunchaku of the Adventurous Uncommon 3
+
+Shiny Star of Intensity Uncommon 8
+Remarkable Dagger of Keenness Uncommon 8
+Fine Robes of the Masses Common 8
+Acceptable Nunchaku of the Average Common 8
+Usual Star of Routine Common 8
+Praiseworthy Boots of Impartiality Uncommon 8
+Robes of Simplicity Common 8
+Stock Dagger of the Ordinary Common 8
+Garden Variety Robes Common 8
+Plain Nunchaku of Normality Common 8
+Suitable Star Common 8
+Dagger of Serviceability Common 8
+General Belt of Usefulness Common 8
+Dagger of Familiarity Common 8
+
+Proper Belt Common 8
+Iron Nunchaku of Familiarity Common 6
+Intermediate Robes Common 6
+General Robes Common 6
+Valiant Nunchaku of Dominating Violence Ancient 4
+Courageous Belt of Unconventional Wonder  Ancient 4
+Nunchaku of Glory Rare 4
+Seminal Star of Wonder Rare 4
+Supreme Nunchaku Rare 4
+Almighty Nunchaku of the Pure Historic 4
+Robes of the Tortured Uncommon 4
+Prime Star of the Intoxicated Uncommon 4
+Superlative Star Rare 4
+Keen Robes Uncommon 4
+
+Astonishing Nunchaku of Wonderment Rare 3
+Striking Star of Joy Rare 3
+Sensational Robes Rare 3
+Boots of Fear Uncommon 2
+Consecrated Belt of the Starlight Historic 3
+Distinctive Dagger of Total Victory Ancient 3
+Shiny Star of Intensity Uncommon 8
+Remarkable Dagger of Keenness Uncommon 8
+Fine Robes of the Masses Common 8
+Acceptable Nunchaku of the Average Common 8
+Usual Star of Routine Common 8
+Praiseworthy Boots of Impartiality Uncommon 8
+Robes of Simplicity Common 8
+Stock Dagger of the Ordinary Common 8
+Garden Variety Robes Common 8
+Plain Nunchaku of Normality Common 8
+Suitable Star Common 8
+Dagger of Serviceability Common 8
+General Belt of Usefulness Common 8
+Dagger of Familiarity Common 8
+Proper Belt Common 8
+Iron Nunchaku of Familiarity Common 6
+Intermediate Robes Common 6
+General Robes Common 6
+
+Fine Robes of the Masses Common 8
+Usual Star of Routine Common 8
+Stock Dagger of the Ordinary Common 8
+Garden Variety Robes Common 8
+Plain Nunchaku of Normality Common 8
+Suitable Star Common 8
+Dagger of Serviceability Common 8
+General Belt of Usefulness Common 8
+Dagger of Familiarity Common 8
+Iron Nunchaku of Familiarity Common 6
+Intermediate Robes Common 6
+General Robes Common 6
+Valiant Nunchaku of Dominating Violence Ancient 4
+Courageous Belt of Ancient 4
+Nunchaku of Glory Rare 4
+Seminal Star of Wonder Rare 4
+Supreme Nunchaku Rare 4
+Almighty Nunchaku of the Pure Historic 4
+Formidable Belt of Stardom Uncommon 4
+Robes of the Tortured Uncommon 4
+Prime Star of the Intoxicated Uncommon 4
+Superlative Star Rare 4
+Keen Robes Uncommon 4
+First Class Star of Bravery Uncommon 4
+Striking Nunchaku Rare 4
+Run of the Mill Robes of Routine Common 4
+Dagger of Decency Common 4
+Regular Belt Common 4
+Stock Belt of Adequacy Common 4
+
+
+Acceptable Nunchaku of the Average Common 8
+Shiny Star of Intensity Uncommon 8
+Robes of Simplicity Common 8
+Praiseworthy Boots of Impartiality Uncommon 8
+Proper Belt Common 8
+Remarkable Dagger of Keenness Uncommon 8
+
+OCR =#=== 15/06

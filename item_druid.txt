@@ -1,0 +1,340 @@
+#Class druid
+
+OCR this, [03.06.18 18:21]
+High Class Staff of Perfection Rare 2
+Fine Mushroom of Courage Uncommon 2
+Lovely Candle Rare 2
+Steel Ring Uncommon 2
+Candle of the Adventurous Uncommon 2
+Mushroom of Predictability Uncommon 2
+Wonderful Ring of Fred's Bane Rare 2
+Quintessential Mushroom of Glitz Rare 2
+Ferocious Candle of the Dashing Uncommon 2
+Praiseworthy Light of the Just Uncommon 2
+Mushroom of Victory Uncommon 2
+Choice Mushroom Uncommon 2
+Robes of Serviceability Common 2
+Toned Staff Common 2
+Ring of Normality Common 2
+Fine Belt Common 2
+Usual Belt of Adequacy Common 2
+Acceptable Belt Common 2
+Pleasant Belt Common 2
+Conventional Robes of the Ordinary Common  2
+Tolerable Robes of Adequacy Common 2
+Mushroom of the Masses Common 2
+Mushroom of the Ordinary Common 2
+Mushroom of the People Common 2
+Fair Belt of Familiarity Common 2
+Routine Belt Common 2
+General Staff Common 2
+Robes of Usefulness Common 2
+Staff of the Masses Common 2
+Ring of Usefulness Common 2
+
+OCR this, [04.06.18 01:18]
+Reasonable Ring of Regularity Common 7
+Sharp Staff of Confidence Uncommon 6
+Balanced Ring of the Tortured Uncommon 6
+Robes of the Just Uncommon 6
+Fair Ring of the Masses Common 6
+Tolerable Mushroom of Serviceability Common 6
+Sufficient Staff of Decency Common 6
+Typical Lantern of the Ordinary Common 6
+Quaint Robes Common 6
+Mushroom of Usefulness Common 6
+Standard-Issue Belt Common 4
+Vanilla Ring Common 4
+Belt of Simplicity Common 4
+Copper Torch Common 4
+Relevant Ring of Regularity Common 4
+Reasonable Staff of Routine Common 2
+
+OCR this, [04.06.18 06:57]
+Commendable Robes of Violence Uncommon 19
+Unremarkable Torch Common 19
+Stock Mushroom of Decency Common 19
+Belt of the Masses Common 19
+Relevant Staff of the Ordinary Common 19
+Standard Light Common 19
+Ring of Acceptability Common 19
+Fine Robes Common 19
+Ring of Imperfection Common 19
+Everyday Ring Common 19
+Typical Belt Common 19
+Moderate Belt Common 19
+Fine Ring Common 19
+Conventional Belt of Value Common 19
+Bearable Candle Common 19
+Standard Ring of Acceptability Common 19
+Simple Ring Common 19
+Okay Ring Common 17
+Robes of the People Common 17
+Customary Mushroom Common 17
+Robes of Simplicity Common 17
+Simple Candle Common 17
+Amazing Robes of Wonderment Rare 13
+Remarkable Staff Uncommon 13
+Stout Ring of the Darkness Uncommon 13
+Rare Candle of the Dawn Rare 13
+High Grade Robes of Glory Rare 13
+Ring of Fright Uncommon 13
+Firm Belt of the Dashing Uncommon 13
+Tolerable Mushroom of Adequacy Common 13
+
+OCR this, [04.06.18 08:13]
+Mushroom of Explosions Rare 19
+Firm Ring Uncommon 19
+Faultless Staff Rare 17
+Belt of Imperfection Common 9
+Mushroom of Adventure Uncommon 7
+Light of Demolition Uncommon 7
+Seminal Robes of Ease Rare 7
+Severe Light of Mettle Uncommon 7
+Heavy Staff of the Daring Uncommon 7
+Commendable Light of Frost Uncommon 7
+Useful Mushroom of the Masses Common 7
+Mushroom of Regularity Common 7
+Mushroom of Simplicity Common 7
+Pleasant Belt of Regularity Common 7
+Standard-Issue Candle of Routine Common 7
+Worthy Ring of the People Common 7
+Regular Light Common 7
+Appropriate Mushroom Common 7
+Lantern of Value Common 7
+Unremarkable Robes Common 7
+Light of Normality Common 7
+Staff of Serviceability Common 7
+Plain Lantern Common 7
+Belt of the Average Common 7
+Belt of Normality Common 7
+Typical Lantern Common 7
+Robes of Value Common 7
+Ring of Suitability Common 7
+Mushroom of Usefulness Common 7
+Golden Mushroom Rare 6
+
+OCR this, [04.06.18 19:11]
+Golden Candle of Glamour Rare 20
+Special Ring of Keenness Uncommon 20
+Ferocious Robes of Pain Uncommon 20
+Shiny Ring Uncommon 20
+Belt of Value Common 20
+Intermediate Light of the Average Common 20
+Iron Lantern Common 20
+Lantern of Acceptability Common 20
+Unremarkable Candle Common 9
+Unremarkable Ring Common 9
+Ring of Suitability Common 9
+Unremarkable Mushroom of the Average Common 9
+Fearsome Belt of the Deep Rare 8
+Vanilla Belt of Suitability Common 9
+Worthy Staff of Serviceability Common 9
+Commendable Robes of the Just Uncommon 8
+Staff of the Masses Common 9
+Heavy Light of Violence Uncommon 8
+Modest Belt of Familiarity Common 8
+Fierce Staff Rare 7
+Belt of Simplicity Common 8
+Mushroom of Value Common 8
+Name Brand Robes of Stardom Uncommon 7
+Candle of Adequacy Common 8
+Name Brand Staff of Frost Uncommon 7
+Appropriate Lantern of Familiarity Common 8
+Adequate Ring of the People Common 8
+Robes of Imperfection Common 8
+Chrome Robes of the Dashing Uncommon 7
+Acceptable Candle of Value Common 8
+
+OCR this, [04.06.18 23:28]
+Robes of Glamour Rare 27
+Polished Ring of Predictability Uncommon 27
+Steel Belt of Impartiality Uncommon 27
+Belt of the Ordinary Common 27
+Customary Torch of Adequacy Common 27
+Intermediate Robes of Normality Common 27
+Unexceptional Candle Common 27
+Uncommon Lantern Uncommon 27
+Sufficient Ring Common 27
+Candle of Adequacy Common 27
+Belt of the Average Common 27
+Useful Robes of the Average Common 27
+Unexceptional Lantern of Familiarity Common  27
+Ring of Adequacy Common 27
+Up-To-Snuff Light Common 27
+Quaint Mushroom of Imperfection Common 27
+Robes of the People Common 27
+Good Lantern Uncommon 27
+Light of the People Common 27
+Usual Mushroom of Simplicity Common 27
+Bearable Mushroom of Decency Common 27
+Pleasant Mushroom of Suitability Common 27
+Imperfect Belt of the Masses Common 27
+Diminished Ring of the Ordinary Common 27
+Acceptable Robes of Routine Common 27
+Standard Mushroom Common 26
+Choice Mushroom Uncommon 25
+Respectable Light Common 27
+Robes of Simplicity Common 27
+Bronze Robes Common 27
+
+OCR this, [05.06.18 08:01]
+Blessed Staff of Glamour Rare 33
+Chrome Candle Uncommon 33
+Ring of the Dauntless Uncommon 33
+Gallant Ring Uncommon 33
+Formidable Staff of the Courageous Uncommon  33
+Remarkable Staff of Wounding Uncommon 33
+Heavy Staff Uncommon 33
+Distinctive Belt of Violence Uncommon 31
+Swank Staff of Foreboding Uncommon 33
+Name Brand Robes of Determination Uncommon 33
+Robes of Spirit Uncommon 33
+Average Robes of Adequacy Common 33
+Imperfect Robes Common 33
+Light of the Ordinary Common 33
+Belt of Usefulness Common 33
+Standard Staff of the Masses Common 33
+Mushroom of Familiarity Common 33
+Belt of Normality Common 33
+Bearable Belt of Adequacy Common 33
+Iron Light of Acceptability Common 33
+Belt of Decency Common 33
+Staff of Normality Common 33
+Ring of Adequacy Common 33
+Nice Robes Common 33
+Robes of Acceptability Common 33
+Proper Robes Common 33
+Modest Mushroom of Simplicity Common 33
+Agreeable Ring of Usefulness Common 33
+Regular Torch of the People Common 33
+Robes of the Average Common 32
+
+OCR this, [05.06.18 23:07]
+Choice Ring Uncommon 50
+Shiny Mushroom Uncommon 50
+Formidable Staff Uncommon 50
+Belt of the Rain Uncommon 50
+Preeminent Candle of the Feared Rare 48
+Praiseworthy Ring of Predictability Uncommon 48
+Uncommon Robes of Spirit Uncommon 48
+Balanced Mushroom of Friendship Uncommon 50
+Classic Ring of Greatness Rare 48
+Wholesome Belt of the Courageous Uncommon  48
+Top Notch Belt of Heaviness Uncommon 50
+Keen Staff of Peace Uncommon 50
+Fine Ring of the Dauntless Uncommon 48
+Mushroom of the Intoxicated Uncommon 48
+Ring of Intensity Uncommon 49
+Firm Staff of the Vain Uncommon 48
+Select Staff Uncommon 32
+Seminal Ring of Greatness Rare 30
+Striking Mushroom of Flames Rare 30
+Luxury Robes of Wonderment Rare 30
+Astonishing Robes Rare 30
+Ungodly Ring Historic 30
+Belt of Amazement Rare 30
+Exquisite Staff of Dread Rare 29
+Light of Ice Rare 29
+Amazing Robes of the Infirm Rare 30
+Belt of Dread Rare 29
+Light of the Virtuous Historic 28
+Superior Staff Uncommon 30
+Highborn Staff of the Earth Rare 29
+
+OCR this, [06.06.18 10:24]
+Select Belt of Foreboding Uncommon 36
+Hard Ring of Fear Uncommon 36
+Royal Staff of the Just Uncommon 36
+Prime Candle of Frost Uncommon 36
+First Class Ring of the Intoxicated Uncommon 36
+Top Notch Staff of Fright Uncommon 36
+Wholesome Staff of the Adventurous Uncommon 36
+Name Brand Torch Uncommon 36
+Shiny Belt of the Blistered Uncommon 36
+Amazing Light of the Valiant Rare 36
+Superior Mushroom Uncommon 36
+Royal Mushroom of the Courageous Uncommon 36
+Wholesome Robes of the Just Uncommon 35
+Singular Staff of the Hardy Rare 34
+Mushroom of Violence Uncommon 36
+Formidable Robes of Fright Uncommon 35
+Heavy Torch of Demolition Uncommon 35
+Stalwart Mushroom Uncommon 35
+Handsome Mushroom Uncommon 35
+Polished Staff of Fear Uncommon 36
+Commendable Staff Uncommon 35
+Steel Robes of Spirit Uncommon 34
+Ring of Familiarity Common 36
+Select Robes of the Dashing Uncommon 35
+Light of Pain Uncommon 36
+Desirable Robes of Frost Uncommon 36
+Typical Belt Common 36
+Balanced Staff of Perseverance Uncommon 34
+Mushroom of the Daring Uncommon 34
+
+OCR this, [06.06.18 14:46]
+Wondrous Belt Historic 38
+Wondrous Staff of the Wind Historic 36
+Staff of Terror Rare 38
+Prime Ring Uncommon 38
+Fierce Light of the Earth Rare 37
+Ring of Glamour Rare 37
+Blessed Candle Rare 37
+Mushroom of the Virtuous Historic 36
+Chrome Mushroom of the Willing Uncommon 38
+Lovely Robes of Terror Rare 37
+Keen Light of Stardom Uncommon 38
+Candle of Adventure Uncommon 38
+Robes of the Earth Rare 36
+Desirable Staff of Stardom Uncommon 37
+Robes of Impartiality Uncommon 37
+Preeminent Mushroom of Fascination Rare 37
+Preeminent Staff of Dread Rare 37
+Robes of Greatness Rare 35
+Sharp Ring of Foreboding Uncommon 38
+Candle of the Just Uncommon 37
+Amazing Robes of Extra Clicks Rare 37
+Fancy Light of the Dauntless Uncommon 38
+Praiseworthy Mushroom of the Dauntless Uncommon 38
+Remarkable Candle of the Courageous Uncommon 37
+Name Brand Robes of the Dashing Uncommon 38
+Prime Belt Uncommon 38
+Tasteful Belt of the Terrorized Uncommon 37
+Ring of Wounding Uncommon 38
+
+Firm Staff of the Vain Uncommon 7
+Fair Robes Common 7
+Prime Mushroom of Perseverance Uncommon 7
+Ordinary Light of Routine Common 7
+Ring of the Vain Uncommon 7
+Diminished Belt Common 7
+
+Noble Staff Rare 40
+Robes of Wounding Uncommon 40
+Staff of Routine Common 40
+Staff of the People Common 39
+Sufficient Robes Common 40
+Pleasant Mushroom of Serviceability Common 40
+Agreeable Mushroom of Value Common 40
+Ring of Serviceability Common 40
+Ring of Serviceability Common 40
+Diminished Staff Common 40
+Common Belt Common 40
+Acceptable Robes Common 40
+All Right Light of the People Common 40
+Modest Candle of Simplicity Common 40
+Staff of Serviceability Common 40
+Standard-Issue Robes of the Average Common 40
+Robes of Friendship Uncommon 38
+Okay Lantern Common 39
+Requisite Candle Common 40
+Robes of Familiarity Common 40
+Respectable Staff Common 40
+Commonplace Mushroom of the People Common 39
+Belt of Normality Common 40
+Reasonable Staff Common 40
+Bronze Belt Common 40
+Decent Candle Common 40
+Staff of Normality Common 40
+Reasonable Robes of Usefulness Common 40
