@@ -9,7 +9,7 @@
 #Oggetto = collections.namedtuple('Oggetto',['classe', 'livello', 'rarita', 'prefisso', 'tipo', 'suffisso'])
 # lista=[]
 # lista.append(Oggetto('wizard', '12', 'common', 'inestimabile', 'light', 'babies'))
-
+# commento inserito solo per fare prove con git
 
 #= IMPORT ======================================================================
 
